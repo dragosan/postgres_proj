@@ -16,9 +16,8 @@ This a project to demonstrate how to use sql queries to analyze a database and g
 - **Visual Studio Code**
 - **Git and Github**
 
-The 10 most in demand skills for data analyst
 
-![](assets\jobs.png)
+![The 10 most in demand skills for data analyst](assets/jobs.png)
 
 type of quesions answerd
 
